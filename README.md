@@ -12,6 +12,10 @@
   - [Ransomware PoC (Encrypter)](https://github.com/ernniayuk/)
   - [Ransomware PoC (Decrypter)](https://github.com/ernniayuk/)
   - [Keylogger utilizing Email](https://github.com/ernniayuk/)
+ 
+  <h2>📑 Certifications:</h2>
+
+- <b>CompTIA Security+ 2025</b>(http://www.linkedin.com/in/ernare-ayuk/)
 
 <h2>📺 Interesting Experiences</h2>
 
