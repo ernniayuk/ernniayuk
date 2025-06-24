@@ -18,7 +18,7 @@
 - [Deploying AI with TVU Networks](https://youtu.be/7F55wjylFwc?si=L1BhTfSvJj1rC9U6)
 - [Deploying Microservices with TVU Networks](https://youtu.be/aMwMpcP9Qpc?si=8C3TgMxbOFZPzR89)
 - [Using AWS Cloud services in our workflow to broadcast the 2024 Olympics (TVU Networks)](https://youtu.be/DXdpjeQ98l4?si=zM4x1Yn172qgPYkV)
-- [Producing a Music Video for Quvao using ARRI tecnology](https://youtu.be/mV-5306BsqI?si=ztmCjufmyr76vz_z)
+- [Producing a Music Video for Quavo(Migos) using ARRI tecnology](https://youtu.be/mV-5306BsqI?si=ztmCjufmyr76vz_z)
 
 <!--
 
