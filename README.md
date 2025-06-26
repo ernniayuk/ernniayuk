@@ -15,7 +15,7 @@
  
   <h2>📑 Certifications:</h2>
 
-- <b>CompTIA Security+ 2025</b>(http://www.linkedin.com/in/ernare-ayuk/)
+- [CompTIA Security+ 2025](http://www.linkedin.com/in/ernare-ayuk/)
 
 <h2>📺 Interesting Experiences</h2>
 
