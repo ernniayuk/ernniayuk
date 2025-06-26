@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Practice with Algorithms & Data Structures (AlgoExpert)</b>
-  - [Praciting Algos & DS, Python](https://github.com/ernniayuk/)
+  - [Praciting Algos & DS, Python](https://github.com/ernniayuk/AlgorithmsDatastructures)
 - <b>PowerShell</b>
   - [Windows Sentinel- EventLog/SIEM: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/ernniayuk/)
   - [Active Directory Bulk User Creation/WAN Config](https://github.com/ernniayuk/Active-Directory-Bulk-User-Creation)
