@@ -5,7 +5,7 @@
 - <b>Practice with Algorithms & Data Structures (AlgoExpert)</b>
   - [Praciting Algos & DS, Python](https://github.com/ernniayuk/AlgorithmsDatastructures)
 - <b>PowerShell</b>
-  - [Windows Sentinel- EventLog/SIEM: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/ernniayuk/)
+  - [Windows Sentinel- EventLog/SIEM: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/ernniayuk/Windows-Sentinel-SIEM-lab)
   - [Active Directory Bulk User Creation/WAN Config](https://github.com/ernniayuk/Active-Directory-Bulk-User-Creation)
   - [Malware Remediation & Fresh OS Deployment](https://github.com/ernniayuk/)
 - <b>C# (.NET Desktop Applications)</b>
