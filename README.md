@@ -9,7 +9,7 @@
   - [Active Directory Bulk User Creation/WAN Config](https://github.com/ernniayuk/Active-Directory-Bulk-User-Creation)
   - [Malware Remediation & Fresh OS Deployment](https://github.com/ernniayuk/)
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware PoC (Encrypter)](https://github.com/ernniayuk/)
+  - [Ransomware PoC (Encrypter)](https://github.com/ernniayuk/encrypterPOC)
   - [Ransomware PoC (Decrypter)](https://github.com/ernniayuk/)
   - [Keylogger utilizing Email](https://github.com/ernniayuk/)
  
