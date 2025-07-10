@@ -10,7 +10,7 @@
   - [Malware Remediation & Fresh OS Deployment](https://github.com/ernniayuk/)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware PoC (Encrypter)](https://github.com/ernniayuk/encrypterPOC)
-  - [Ransomware PoC (Decrypter)](https://github.com/ernniayuk/)
+  - [Ransomware PoC (Decrypter)](https://github.com/ernniayuk/decrypterPOC)
   - [Keylogger utilizing Email](https://github.com/ernniayuk/)
  
   <h2>📑 Certifications:</h2>
